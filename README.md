@@ -1,11 +1,14 @@
-## About Me :
-Hi 👋, I'm Rakshith Acharya
+## Hi there, I'm Rakshith Acharya 👋 
 
-🌱 I’m currently learning Cloud Computing, Data Science
+👨🏾‍💻 I’m currently working on an IOT Project.
+
+📚 I’m currently learning Cloud Computing and Data Science
 
 💬 Ask me about Photoshop, Textures
 
 📫 How to reach me rakshixh@gmail.com
+
+![](https://komarev.com/ghpvc/?username=rakshixh&label=Visitors+Count&color=brightgreen)
 
 ## Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rakshixh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakshixh) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rakshixh) 
@@ -22,8 +25,8 @@ Hi 👋, I'm Rakshith Acharya
 ![](https://github-profile-trophy.vercel.app/?username=rakshixh&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-![](https://komarev.com/ghpvc/?username=rakshixh&label=Visitors+Count&color=brightgreen)
+
 
   ## You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/PayPal.Me/rakshixh) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/rakshixh) 
   
