@@ -21,20 +21,23 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 ## 🧑🏻 About Me
-<img align="right" width="200" height="200" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
+<p align="center">
+I am currently pursuing a degree in Computer Science and Engineering at SMVITM Bantakal 🏫. I'd like to contribute to more open source projects ❤️‍🔥. Web development and web design are two technologies that I enjoy working with 👨‍💻. I'm currently exploring Data Science and Android Development 📱. Please email me at rakshixh@gmail.com if you have any queries.</p>
 
-🎓 I'm currently studying Computer Science and Engineering at SMVITM Bantakal.<br>
-🤝 I'd like to work on more open source projects.<br>
-👨🏽‍💻 Technologies that I enjoy working with include Front-End Designing, PHP.<br>
-💻 Currently exploring Data Science & Android Development.<br>
-📧 Contact me <a href="mailto:rakshixh@gmail.com">rakshixh@gmail.com</a>
+<p align="center">
+<img width="400" height="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
+</p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rakshixh) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakshixh) 
+<div align="center">
+  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rakshixh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakshixh)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rakshixh)
 <a href=https://www.youtube.com/channel/UCoPPOzdy8Z6r68F27zXeJDw> <img src="https://img.shields.io/youtube/channel/views/UCoPPOzdy8Z6r68F27zXeJDw?style=social"></a>
-![visitorcount](https://komarev.com/ghpvc/?username=rakshixh&label=Visitors+Count&color=brightgreen)
+![visitorcount](https://komarev.com/ghpvc/?username=rakshixh&label=Visitors+Count&color=brightgreen
 
+</div>
+  
 ## 📈 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshixh&theme=nightowl&bg_color=264653&title_color=E9C46A&text_color=E9C46A&border_radius=10&hide_border=false&langs_count=10&include_all_commits=true&count_private=true&layout=compact&card_width=1000)
 <img src="https://activity-graph.herokuapp.com/graph?username=rakshixh&theme=dracula&bg_color=264653&color=E9C46A&line=F4A261&point=E76F51&area=true&hide_border=false">
