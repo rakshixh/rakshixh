@@ -1,4 +1,4 @@
-## Hi there, I'm Rakshith Acharya 👋 
+## Hi, I'm Rakshith Acharya 👋 
 ![Linkedin banner](https://user-images.githubusercontent.com/83587918/162585414-8aa14493-3905-4d8f-aad2-2d8cdd795270.png)
 
 ## 🛠️ Tech and Tools
