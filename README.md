@@ -22,20 +22,21 @@
 
 ## 🧑🏻 About Me
 <p align="center">
-I am currently pursuing a degree in Computer Science and Engineering at SMVITM Bantakal 🏫. I'd like to contribute to more open source projects ❤️‍🔥. Web development and web design are two technologies that I enjoy working with 👨‍💻. I'm currently exploring Data Science and Android Development 📱. Please email me at rakshixh@gmail.com if you have any queries.</p>
+I am currently pursuing a degree in Computer Science and Engineering at SMVITM Bantakal 🏫. I'd like to contribute to more open source projects ❤️‍🔥. Web development and web design are two technologies that I enjoy working with 👨‍💻. I'm currently exploring Data Science and Android Development 📱. Please email me at <a href = "mailto: rakshixh@gmail.com">rakshixh@gmail.com</a> if you have any queries 😀.</p>
 
 <p align="center">
-<img width="400" height="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
+<img width="30%" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 </p>
 
 <div align="center">
   
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rakshixh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakshixh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakshixh)  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rakshixh)
 <a href=https://www.youtube.com/channel/UCoPPOzdy8Z6r68F27zXeJDw> <img src="https://img.shields.io/youtube/channel/views/UCoPPOzdy8Z6r68F27zXeJDw?style=social"></a>
-![visitorcount](https://komarev.com/ghpvc/?username=rakshixh&label=Visitors+Count&color=brightgreen
+![visitorcount](https://komarev.com/ghpvc/?username=rakshixh&label=Visitors+Count&color=brightgreen)
 
+  Show some love by ⭐ the repositories, If you find it helpful.
 </div>
   
 ## 📈 GitHub Stats :
