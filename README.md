@@ -20,7 +20,11 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
-## 😍 About <img align="left" width="28%" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
+## 😍 About 
+<img align="left" width="28%" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
+ 
+ <br>
+ 
 - CSE Engineer😍
 - Open Source Contributions🙃
 - Web Development & Web Design😇
@@ -33,7 +37,9 @@
 ![visitorcount](https://komarev.com/ghpvc/?username=rakshixh&label=Visitors+Count&color=brightgreen)
 
 Show some love by ⭐ the repositories, If you find it helpful.
-
+<br>
+<br>
+<br>
 
 ## 📈 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshixh&theme=nightowl&bg_color=264653&title_color=E9C46A&text_color=E9C46A&border_radius=10&hide_border=false&langs_count=10&include_all_commits=true&count_private=true&layout=compact&card_width=1000)
