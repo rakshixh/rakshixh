@@ -25,10 +25,11 @@
  
  <br>
  
-- CSE Engineer😍
-- Open Source Contributions🙃
-- Web Development & Web Design😇
-- Data Science & Androide Development😇
+- CSE Engineer
+- Open Source Contributions 🙃
+- Web Development 😇
+- Data Science 
+- Android Development 😇
   
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rakshixh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakshixh)  
