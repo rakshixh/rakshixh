@@ -21,8 +21,8 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 ## 🧑🏻 About Me
-<p align="center">
-I am currently pursuing a degree in Computer Science and Engineering at SMVITM Bantakal 🏫. I'd like to contribute to more open source projects ❤️‍🔥. Web development and web design are two technologies that I enjoy working with 👨‍💻. I'm currently exploring Data Science and Android Development 📱. Please email me at <a href = "mailto: rakshixh@gmail.com">rakshixh@gmail.com</a> if you have any queries 😀.</p>
+<p align="justify">
+I am currently pursuing a degree in Computer Science and Engineering at SMVITM Bantakal 🏫 I'd like to contribute to more open source projects ❤️‍🔥 Web development and web design are two technologies that I enjoy working with 👨‍💻 I'm currently exploring Data Science and Android Development 📱 Please email me at <a href = "mailto: rakshixh@gmail.com">rakshixh@gmail.com</a> if you have any queries 😀</p>
 
 <p align="center">
 <img width="70%" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
