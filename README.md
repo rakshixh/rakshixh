@@ -21,7 +21,7 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 ## 😍 About 
-<img align="left" width="28%" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
+<img align="left" width="30%" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
  
  <br>
  
