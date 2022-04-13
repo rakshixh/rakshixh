@@ -37,9 +37,7 @@
 ![visitorcount](https://komarev.com/ghpvc/?username=rakshixh&label=Visitors+Count&color=brightgreen)
 
 Show some love by ⭐ the repositories, If you find it helpful
-
 </div>
-<br>
 
 ## 📈 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshixh&theme=nightowl&bg_color=264653&title_color=E9C46A&text_color=E9C46A&border_radius=10&hide_border=false&langs_count=10&include_all_commits=true&count_private=true&layout=compact&card_width=1000)
