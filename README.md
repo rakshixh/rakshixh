@@ -29,7 +29,7 @@
 <img align="left" width="40%" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
     
 - <a href="https://www.hackerrank.com/rakshixh">Hackerrank</a>
-- Open Source Contributions
+- Open Source
 - Web Development
 - Data Science 
     
