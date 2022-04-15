@@ -20,15 +20,20 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
-## 🧑🏻 About 
+## 🧑🏻 About
+  <img align="right" width="30%" src="https://user-images.githubusercontent.com/83587918/163603932-e46f008a-7ae3-4d72-808f-7ff2d9a6e540.gif">
+<p align="left">
+  I am currently pursuing a degree in Computer Science and Engineering at SMVITM Bantakal. I'd like to get involved in more open source projects. Web development and web design are two technologies that I enjoy working with. I'm currently exploring Data Science and Android Development. Please contact me at <a href = "mailto: rakshixh@gmail.com">rakshixh@gmail.com.</a> 
+</p> <br>
+
 <img align="left" width="30%" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
-  
+    
 - <a href="https://www.hackerrank.com/rakshixh">Hackerrank</a>
 - Open Source Contributions
 - Web Development
 - Data Science 
-  
-<div align="center">
+    
+<div align="left">
  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rakshixh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakshixh)  
@@ -38,6 +43,8 @@
 
 Show some love by ⭐ the repositories, If you find it helpful
 </div>
+
+<br>
 
 <br>
 
