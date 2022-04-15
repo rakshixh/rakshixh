@@ -33,7 +33,7 @@
 - Web Development
 - Data Science 
     
-<div align="left">
+<div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakshixh)  
 <a href=https://www.youtube.com/channel/UCoPPOzdy8Z6r68F27zXeJDw> <img src="https://img.shields.io/youtube/channel/views/UCoPPOzdy8Z6r68F27zXeJDw?style=social"></a>
