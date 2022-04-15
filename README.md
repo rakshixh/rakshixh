@@ -20,10 +20,10 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
-## 😍 About 
+## 🧑🏻 About 
 <img align="left" width="30%" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
  
-- CSE Engineer
+- <a href=" https://www.hackerrank.com/rakshixh">Hackerrank</a>
 - Open Source Contributions 🙃
 - Web Development 😇
 - Data Science 
