@@ -22,10 +22,7 @@
 
 ## 🧑🏻 About 
 <img align="left" width="30%" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
- 
- <br>
- <br>
- 
+  
 - <a href="https://www.hackerrank.com/rakshixh">Hackerrank</a>
 - Open Source Contributions
 - Web Development
