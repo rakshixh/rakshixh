@@ -23,9 +23,12 @@
 ## 🧑🏻 About 
 <img align="left" width="30%" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
  
-- <a href=" https://www.hackerrank.com/rakshixh">Hackerrank</a>
-- Open Source Contributions 🙃
-- Web Development 😇
+ <br>
+ <br>
+ 
+- <a href="https://www.hackerrank.com/rakshixh">Hackerrank</a>
+- Open Source Contributions
+- Web Development
 - Data Science 
   
 <div align="center">
@@ -38,6 +41,8 @@
 
 Show some love by ⭐ the repositories, If you find it helpful
 </div>
+
+<br>
 
 ## 📈 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshixh&theme=nightowl&bg_color=264653&title_color=E9C46A&text_color=E9C46A&border_radius=10&hide_border=false&langs_count=10&include_all_commits=true&count_private=true&layout=compact&card_width=1000)
