@@ -23,7 +23,7 @@
 ## 🧑🏻 About
   <img align="right" width="30%" src="https://user-images.githubusercontent.com/83587918/163603932-e46f008a-7ae3-4d72-808f-7ff2d9a6e540.gif">
 <p align="left">
-  I am currently pursuing a degree in Computer Science and Engineering at SMVITM Bantakal. I'd like to get involved in more open source projects. Web development and web design are two technologies that I enjoy working with. I'm currently exploring Data Science and Android Development. Please contact me at <a href = "mailto: rakshixh@gmail.com">rakshixh@gmail.com.</a> 
+  I am currently pursuing a degree in Computer Science and Engineering at SMVITM Bantakal. I'd like to get involved in more open source projects. Web development and web design are two technologies that I enjoy working with. I'm currently exploring Data Science and Android Development.
 </p>
 
 <img align="left" width="40%" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
