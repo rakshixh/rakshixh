@@ -33,9 +33,9 @@
 - Web Development
 - Data Science 
     
+    <br>
+    
 <div align="center">
-  
-  <br>
   
   <br>
   
@@ -45,6 +45,8 @@
 
 Show some love by ⭐ the repositories, If you find it helpful
 </div>
+
+<br>
 
 <br>
 
