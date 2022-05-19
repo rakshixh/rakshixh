@@ -21,23 +21,29 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 ## 🧑🏻 About
-  <img align="right" width="30%" src="https://user-images.githubusercontent.com/83587918/163603932-e46f008a-7ae3-4d72-808f-7ff2d9a6e540.gif">
-<p align="left">
+ 
+<p align="justify">
   I am currently pursuing a degree in Computer Science and Engineering at SMVITM Bantakal. I'd like to get involved in more open source projects. Web development and web design are two technologies that I enjoy working with. I'm currently exploring GCP and Android Development.
 </p>
 
-<img align="left" width="40%" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
+<div align="left">
     
-- <a href="https://www.hackerrank.com/rakshixh">Hackerrank</a>
-- Open Source
-- Web Development
-- Data Science 
-    
-    <br>
-    
+  <ul>
+    <li> <a href="https://www.hackerrank.com/rakshixh">Hackerrank</a> </li>
+    <li> Open Source </li>
+    <li>Web Development </li>
+    <li> Android Development </li>
+  </ul>
+  
+</div>
+
 <div align="center">
   
-  <br>
+<img align="right" width="400px" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
+
+</div>
+  
+<div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakshixh)  
 <a href=https://www.youtube.com/channel/UCoPPOzdy8Z6r68F27zXeJDw> <img src="https://img.shields.io/youtube/channel/views/UCoPPOzdy8Z6r68F27zXeJDw?style=social"></a>
