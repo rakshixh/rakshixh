@@ -39,7 +39,7 @@
 
 <div align="center">
   
-<img align="right" width="400px" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
+<img width="400px" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
 </div>
   
