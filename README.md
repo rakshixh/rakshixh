@@ -134,7 +134,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rakshixh&margin-w=15&theme=dracula&title=Commits,Repositories)](https://github.com/rakshixh/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rakshixh)](https://github.com/rakshixh/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rakshixh&theme=juicyfresh&margin-w=15)](https://github.com/rakshixh/github-profile-trophy)
 
 ##
 
