@@ -119,7 +119,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshixh&theme=nightowl&bg_color=264653&title_color=E9C46A&text_color=E9C46A&border_radius=10&hide_border=false&langs_count=10&include_all_commits=true&count_private=true&layout=compact&card_width=1000)
 <img src="https://activity-graph.herokuapp.com/graph?username=rakshixh&theme=dracula&bg_color=264653&color=E9C46A&line=F4A261&point=E76F51&area=true&hide_border=false">
-<img src="https://raw.githubusercontent.com/rakshixh/rakshixh/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/rakshixh/rakshixh/blob/output/github-contribution-grid-snake.svg)
 
 ##
 
