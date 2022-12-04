@@ -119,6 +119,8 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshixh&theme=nightowl&bg_color=264653&title_color=E9C46A&text_color=E9C46A&border_radius=10&hide_border=false&langs_count=10&include_all_commits=true&count_private=true&layout=compact&card_width=1000)
 
+[![Star History Chart](https://api.star-history.com/svg?repos=rakshixh/github-readme-activity-graph&type=Timeline)](https://star-history.com/#rakshixh/github-readme-activity-graph&Timeline)
+
 
 <img src="https://activity-graph.herokuapp.com/graph?username=rakshixh&theme=dracula&bg_color=264653&color=E9C46A&line=F4A261&point=E76F51&area=true&hide_border=false">
 
