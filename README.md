@@ -124,6 +124,8 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=rakshixh&theme=dracula&bg_color=264653&color=E9C46A&line=F4A261&point=E76F51&area=true&hide_border=false"> -->
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rakshixh&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <div align="center">
   
