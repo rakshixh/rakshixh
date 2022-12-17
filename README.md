@@ -12,30 +12,17 @@
  
 ##
 
-
-<table style="border: 0px"><tr><td valign="center" width="100%">
+   <div align="center">
+    <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" align="center" height="" width="300" />
+    </div>
   
-  <div align="center">
-    <img src="https://octodex.github.com/images/nyantocat.gif" width="100" /> </div>
-  
-  <p align="center">I am currently pursuing a degree in Computer Science and Engineering at SMVITM Bantakal. I'd like to get involved in more open-source projects. Web development and web design are two technologies that I enjoy working with. 'm currently exploring Google Cloud Platform.</p> </div>
+  <p align="center">I am currently pursuing a degree in Computer Science and Engineering at SMVITM Bantakal. I'd like to get involved in more open-source projects. Web development and web design are two technologies that I enjoy working with. I'm currently exploring Google Cloud Platform.</p> </div>
   <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakshixh)  
 <a href=https://www.youtube.com/channel/UCoPPOzdy8Z6r68F27zXeJDw> <img src="https://img.shields.io/youtube/channel/views/UCoPPOzdy8Z6r68F27zXeJDw?style=social"></a>
 ![visitorcount](https://komarev.com/ghpvc/?username=rakshixh&label=Visitors+Count&color=brightgreen)
 
-</div>
-  
-</td><td valign="top" width="100%">
-
-<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" align="center" height="" width="300" />  
-
-
-</td></tr></table>
-
-<div align="center">
-  <img height="350" src="https://user-images.githubusercontent.com/83587918/190856092-9f582229-32b7-419e-b0f0-2ded759b228e.png"  />
 </div>
 
 
@@ -157,6 +144,10 @@
 ##
 
 <div align="center">
+  
+  <div align="center">
+  <img height="100" src="https://user-images.githubusercontent.com/83587918/190856092-9f582229-32b7-419e-b0f0-2ded759b228e.png"  />
+</div>
  
 Show some love by ⭐ the repositories, If you find it helpful
 
