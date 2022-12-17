@@ -124,7 +124,7 @@
 <!-- ***************************************** -->
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rakshixh&bg_color=ffffff&color=269c28&line=03b518&point=0aa428&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rakshixh&theme=modern-lilac)](https://github.com/rakshixh/github-readme-activity-graph)
 
 
 <div align="center">
