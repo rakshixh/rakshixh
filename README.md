@@ -12,22 +12,32 @@
  
 ##
 
-<div align="center">
-  <img height="250" src="https://user-images.githubusercontent.com/83587918/190856092-9f582229-32b7-419e-b0f0-2ded759b228e.png"  />
-</div>
 
-###
-
-<p align="center">I am currently pursuing a degree in Computer Science and Engineering at SMVITM Bantakal. <br> I'd like to get involved in more open-source projects. Web development and web design are two technologies that I enjoy working with. <br> I'm currently exploring GCP and Android Development.
-
-<div align="center">
+<table style="border: 0px"><tr><td valign="center" width="100%">
+  
+  <div align="center">
+    <img src="https://octodex.github.com/images/nyantocat.gif" width="100" /> </div>
+  
+  <p align="center">I am currently pursuing a degree in Computer Science and Engineering at SMVITM Bantakal. I'd like to get involved in more open-source projects. Web development and web design are two technologies that I enjoy working with. 'm currently exploring Google Cloud Platform.</p> </div>
+  <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakshixh)  
 <a href=https://www.youtube.com/channel/UCoPPOzdy8Z6r68F27zXeJDw> <img src="https://img.shields.io/youtube/channel/views/UCoPPOzdy8Z6r68F27zXeJDw?style=social"></a>
 ![visitorcount](https://komarev.com/ghpvc/?username=rakshixh&label=Visitors+Count&color=brightgreen)
 
 </div>
-</p>
+  
+</td><td valign="top" width="100%">
+
+<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" align="center" height="" width="300" />  
+
+
+</td></tr></table>
+
+<div align="center">
+  <img height="350" src="https://user-images.githubusercontent.com/83587918/190856092-9f582229-32b7-419e-b0f0-2ded759b228e.png"  />
+</div>
+
 
 ###
 
@@ -116,13 +126,16 @@
 <h3 align="left">📈 GitHub Stats</h3>
 
 ###
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshixh&theme=nightowl&bg_color=264653&title_color=E9C46A&text_color=E9C46A&border_radius=10&hide_border=false&langs_count=10&include_all_commits=true&count_private=true&layout=compact&card_width=1000)
+<!-- 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshixh&theme=nightowl&bg_color=264653&title_color=E9C46A&text_color=E9C46A&border_radius=10&hide_border=false&langs_count=10&include_all_commits=true&count_private=true&layout=compact&card_width=1000) -->
 
 <!-- [![Star History Chart](https://api.star-history.com/svg?repos=rakshixh/github-readme-activity-graph&type=Timeline)](https://star-history.com/#rakshixh/github-readme-activity-graph&Timeline)
 
 
 <img src="https://activity-graph.herokuapp.com/graph?username=rakshixh&theme=dracula&bg_color=264653&color=E9C46A&line=F4A261&point=E76F51&area=true&hide_border=false"> -->
+
+<!-- ***************************************** -->
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rakshixh&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
