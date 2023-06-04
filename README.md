@@ -1,4 +1,4 @@
-# Hi, I'm Rakshith Acharya 👨‍💻
+## Hi, I'm Rakshith Acharya 👨‍💻
 
 ###### _Debug your life to Run existence smoothly!✨_
     
@@ -11,13 +11,13 @@ I am currently pursuing a degree in Computer Science and Engineering at SMVITM B
 
 Here are the Programming languages and tools that I use:
 
-- { Web Development } - HTML, CSS, Bootstrap, PHP, React Js, Node Js
-- { Programming Language } - C, C++, Python
-- { Data Base } - Mysql, Mongo DB
-- { Version Control } - GitHub, Git
-- { Software } - Photoshop, Premier Pro, Arduino IDE, Android Studio
-- { API Development Tool } - Postman 
-- { Cloud Technology } - Google Cloud Platform, Azure
+- Web Development = [ 'HTML', 'CSS', 'Bootstrap', 'PHP', 'React Js', 'Node Js' ]
+- Programming Language = [ 'C', 'C++', 'Python' ]
+- Data Base = [ 'Mysql', 'Mongo DB' ]
+- Version Control = [ 'GitHub', 'Git' ]
+- Software = [ 'Photoshop', 'Premier Pro', 'Arduino IDE', 'Android Studio' ]
+- API Development Tool = [ 'Postman' ] 
+- Cloud Technology = [ 'Google Cloud Platform', 'Azure' ]
 
 <div align="center">
 <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="" width="250" /> 
