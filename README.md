@@ -2,7 +2,7 @@
 
 ###### _Debug your life to Run existence smoothly!✨_
     
-I graduated from SMVITM Bantakal with a Bachelor of Engineering in Computer Science. I'd like to get involved in more open-source projects. Web development and web design are two technologies that I enjoy working with. I'm currently exploring the Google Cloud Platform. 
+I'm a Computer Science graduate who loves utilizing technology to fuel innovation and tackle challenging problems. I'd like to get involved in more open-source projects. Web development and web design are two technologies that I enjoy working with. I'm currently exploring the Google Cloud Platform. 
 
 <a href=https://www.youtube.com/channel/UCoPPOzdy8Z6r68F27zXeJDw> <img src="https://img.shields.io/youtube/channel/views/UCoPPOzdy8Z6r68F27zXeJDw?style=social"></a> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakshixh) 
 ![visitorcount](https://komarev.com/ghpvc/?username=rakshixh&label=Visitors+Count&color=brightgreen)
