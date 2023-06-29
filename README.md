@@ -11,13 +11,13 @@ I'm a Computer Science graduate who loves utilizing technology to fuel innovatio
 
 Here are the Programming languages and tools that I use:
 
-- Web Development = [ 'HTML', 'CSS', 'Bootstrap', 'PHP', 'React Js', 'Node Js' ]
-- Programming Language = [ 'C', 'C++', 'Python' ]
-- Data Base = [ 'Mysql', 'Mongo DB' ]
-- Version Control = [ 'GitHub', 'Git' ]
+- Web_Development = [ 'HTML', 'CSS', 'Bootstrap', 'PHP', 'React Js', 'Node Js' ]
+- Programming_Language = [ 'C', 'C++', 'Python' ]
+- Data_Base = [ 'Mysql', 'Mongo DB' ]
+- Version_Control = [ 'GitHub', 'Git' ]
 - Software = [ 'Photoshop', 'Premier Pro', 'Arduino IDE', 'Android Studio' ]
-- API Development Tool = [ 'Postman' ] 
-- Cloud Technology = [ 'Google Cloud Platform', 'Azure' ]
+- API_Development_Tool = [ 'Postman' ] 
+- Cloud_Technology = [ 'Google Cloud Platform', 'Azure' ]
 
 <div align="center">
 <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="" width="250" /> 
