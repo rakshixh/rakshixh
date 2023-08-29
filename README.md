@@ -25,4 +25,5 @@ Here are the Programming languages and tools that I use:
 Show some love by ⭐ the repositories, If you find it helpful
   
 ![Snake animation](https://github.com/rakshixh/rakshixh/blob/output/github-contribution-grid-snake.svg)
+
 </div>
