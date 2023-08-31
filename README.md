@@ -24,6 +24,6 @@ Here are the Programming languages and tools that I use:
   
 Show some love by ⭐ the repositories, If you find it helpful
   
-![Snake animation](https://github.com/rakshixh/rakshixh/blob/output/github-contribution-grid-snake.svg)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rakshixh&bg_color=413a3d&color=ffffff&line=9e4c98&point=ac92d3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
