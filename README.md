@@ -1,4 +1,10 @@
-<img src="https://github.com/rakshixh/rakshixh/assets/83587918/c5c483a0-5c8d-4c5d-9f7f-cdcecc5915ee" alt="Rakshith Acharya">
+<div align="center">
+<h1>Hey! I'm Rakshith Acharya</h1>
+</div>
+
+<div align="center">
+<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="" width="250" />
+</div>
 
 ## About Me
   
@@ -56,4 +62,8 @@
   
 <a href=https://www.youtube.com/channel/UCoPPOzdy8Z6r68F27zXeJDw> <img src="https://img.shields.io/youtube/channel/views/UCoPPOzdy8Z6r68F27zXeJDw?style=social"></a> <img src="https://komarev.com/ghpvc/?username=rakshixh&label=Profile%20views&color=0ea5e9&style=flat" alt="rakshixh" /> 
     
+</div>
+
+<div align="center">
+<p>Show some love by ⭐ the repositories, If you find it helpful</p>
 </div>
