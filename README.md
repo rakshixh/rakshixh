@@ -15,7 +15,7 @@
 ## Area of Specialization
     
 - 💻 Full-stack Web Development
-- 👽 CI/CD DevOps
+- 👽 DevOps
 - 📱 Mobile App Development
 - 🦾 Cloud Technology
   
