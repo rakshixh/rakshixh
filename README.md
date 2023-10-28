@@ -42,13 +42,11 @@
  ## Stats
 <p align="center">
   <img src="https://github-readme-streak-stats-kv.vercel.app?user=rakshixh&theme=radical&hide_border=true" width="48%" alt="rakshixh's github-readme-streak-stats"/>
-
-
 </p>
 
 ##
 <p align="center">
-    <img src="https://github-readme-activity-graph-kv.vercel.app/graph?username=rakshixh&theme=github&color=38bdf8&line=38bdf8&hide_border=true&hide_title=false&area=true" width="100%" alt="activity graph">
+    <img src="https://github-readme-activity-graph-kv.vercel.app/graph?username=rakshixh&bg_color=141321&title_color=f93d7f&color=f6d647&line=ae81ff&point=f93d7f&area_color=ae81ff&radius=16&hide_border=true&hide_title=false&area=true" width="100%" alt="activity graph">
 </p>
 
 ##
