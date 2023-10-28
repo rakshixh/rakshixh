@@ -21,15 +21,23 @@
   
 ## Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,cpp,py,mysql,mongodb" alt="programming languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,bash,powershell,androidstudio,flutter,githubactions,gitlab,arduino&theme=dark" alt="programming languages" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,expressjs,jquery,redux,bootstrap,tailwind,materialui" alt="frameworks" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,react,redux,materialui,vercel&theme=dark" alt="frameworks" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,firebase,ai,ps" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=postman,nodejs,express,firebase,mysql,mongodb,linux,heroku&theme=dark" alt="tools" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gcp,aws,azure,docker,kubernetes,jenkins&theme=dark" alt="tools" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ps,pr,ae,figma&theme=dark" alt="tools" />
 </p>
 
 ## My Holopin Profile
