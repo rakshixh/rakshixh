@@ -57,5 +57,5 @@
 </div>
 
 <div align="center">
-<p>Show some love by ⭐ the repositories, If you find it helpful</p>
+<p>Show some love by ⭐ the repositories, If you find it helpful!</p>
 </div>
