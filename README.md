@@ -57,5 +57,13 @@
 </div>
 
 <div align="center">
+  
+  <a href="https://buymeacoffee.com/rakshixh">
+    <img src="https://img.shields.io/badge/-Buy%20me%20a%20burger%20%F0%9F%8D%94-ff5f5f" style="height: 30px; width: auto;">
+  </a>
+
+</div>
+
+<div align="center">
 <p>Show some love by ⭐ the repositories, If you find it helpful</p>
 </div>
