@@ -60,7 +60,7 @@
 <div align="center">
   
   <a href="https://buymeacoffee.com/rakshixh">
-    <img src="https://img.shields.io/badge/-Buy%20me%20a%20burger%20%F0%9F%8D%94-ff5f5f" style="height: 30px; width: auto;">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Buy_Me_A-Burger-red?style=for-the-badge&link=https%3A%2F%2Fbuymeacoffee.com%2Frakshixh">
   </a>
 
 </div>
