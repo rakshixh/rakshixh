@@ -52,7 +52,7 @@
 
 <div align="center"> 
   
-<a href=https://www.youtube.com/channel/UCoPPOzdy8Z6r68F27zXeJDw> <img src="https://img.shields.io/youtube/channel/views/UCoPPOzdy8Z6r68F27zXeJDw?style=social"></a> <img src="https://komarev.com/ghpvc/?username=rakshixh&label=Profile%20views&color=0ea5e9&style=flat" alt="rakshixh" /> 
+<a href=https://www.youtube.com/channel/UCoPPOzdy8Z6r68F27zXeJDw> <img src="https://img.shields.io/youtube/channel/views/UCoPPOzdy8Z6r68F27zXeJDw?style=social"></a> <img src="https://komarev.com/ghpvc/?username=rakshixh&label=Profile%20views&color=red&style=for-the-badge&abbreviated=true" alt="rakshixh" /> 
     
 </div>
 
