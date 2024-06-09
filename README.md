@@ -1,10 +1,5 @@
-<div align="center">
-<h1>Hey! I'm Rakshith Acharya</h1>
-</div>
 
-<div align="center">
-<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="" width="250" />
-</div>
+![Github Readme Banner](https://github.com/rakshixh/rakshixh/assets/83587918/18aed1ea-862b-441c-903a-2c9348fb0b73)
 
 ## About Me
   
