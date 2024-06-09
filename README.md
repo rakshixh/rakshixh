@@ -13,7 +13,7 @@
   
 ## Languages & Tools
 <p align="center">
-  <img width="900px" src="https://skillicons.dev/icons?i=c,cpp,py,bash,powershell,androidstudio,flutter,githubactions,gitlab,arduino,html,css,js,php,bootstrap,react,redux,materialui,vercel,postman,nodejs,express,firebase,mysql,mongodb,linux,heroku,gcp,aws,azure,docker,kubernetes,jenkins,ps,pr,figma&theme=dark&perline=12" alt="programming languages" />
+  <img width="900px" src="https://skillicons.dev/icons?i=c,cpp,py,bash,androidstudio,flutter,github,gitlab,arduino,html,css,js,php,bootstrap,tailwind,react,redux,vite,materialui,vercel,postman,nodejs,express,firebase,mysql,mongodb,linux,nginx,webpack,heroku,gcp,docker,kubernetes,jenkins,ps,pr&theme=dark&perline=12" alt="programming languages" />
 </p>
 
 ## My Holopin Profile
