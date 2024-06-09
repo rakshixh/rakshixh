@@ -2,7 +2,7 @@
 ![Github Readme Banner](https://github.com/rakshixh/rakshixh/assets/83587918/18aed1ea-862b-441c-903a-2c9348fb0b73)
 
 <div align="center">
-🌸🌼🌿 Blooming in the World of Tech 🌿🌼🌸
+🐚 Diving Deep into Development 🦈
 </div>
     
 ## Area of Specialization
