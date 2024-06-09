@@ -2,15 +2,15 @@
 ![Github Readme Banner](https://github.com/rakshixh/rakshixh/assets/83587918/18aed1ea-862b-441c-903a-2c9348fb0b73)
 
 <div align="center">
-🐚 Diving Deep into Development 🦈
+🌊 Diving Deep into Development 🐚🦈
 </div>
     
 ## Area of Specialization
     
-- 💻 Full-stack Web Development
-- 👽 DevOps
-- 📱 Mobile App Development
-- 🦾 Cloud Technology
+🐋 Full-stack Development <br>
+🏝️ Mobile App Development <br>
+🏖️ Cloud Technology <br>
+🪸 GCP DevOps <br>
   
 ## Languages & Tools
 <p align="center">
