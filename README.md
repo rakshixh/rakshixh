@@ -1,13 +1,9 @@
 
 ![Github Readme Banner](https://github.com/rakshixh/rakshixh/assets/83587918/18aed1ea-862b-441c-903a-2c9348fb0b73)
 
-## About Me
-  
-- 🤖 I'm a Computer Science graduate who loves utilizing technology to fuel innovation and tackle challenging problems.
-- 🚀 Passionate about contributing to open-source projects and fostering collaboration in the developer community.
-- 🖥️ Experienced web developer with a strong foundation in front-end and back-end technologies.
-- 💡 Dedicated to achieving success in any domain with a strong work ethic.
-- 🧠 Problem solver with a passion for innovative solutions.
+<div align="center">
+🌸🌼🌿 Blooming in the World of Tech 🌿🌼🌸
+</div>
     
 ## Area of Specialization
     
