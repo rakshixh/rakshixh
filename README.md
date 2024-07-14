@@ -54,7 +54,7 @@
   </a>
 
   
-  <a href="https://buymeacoffee.com/rakshixh">
+  <a href="https://rzp.io/l/rakshixh">
     <img alt="Static Badge" src="https://img.shields.io/badge/Cheer_Me_On-Razorpay-red?style=for-the-badge&link=https%3A%2F%2Fbuymeacoffee.com%2Frakshixh">
   </a>
 
