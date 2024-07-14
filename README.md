@@ -53,6 +53,11 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Buy_Me_A-Burger-red?style=for-the-badge&link=https%3A%2F%2Fbuymeacoffee.com%2Frakshixh">
   </a>
 
+  
+  <a href="https://buymeacoffee.com/rakshixh">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Cheer_Me_On-Razorpay-red?style=for-the-badge&link=https%3A%2F%2Fbuymeacoffee.com%2Frakshixh">
+  </a>
+
 </div>
 
 <div align="center">
