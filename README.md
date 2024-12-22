@@ -1,4 +1,5 @@
-![Github Readme Banner](https://github.com/rakshixh/rakshixh/assets/83587918/d12dab59-4df3-41bc-becb-dddd943eb804)
+![GitHub Readme Banner](https://github.com/user-attachments/assets/7b547c60-f1df-4603-b447-882d4e6ffd84)
+
 
 <div align="center">
 🐚 Diving Deep into Development 🌊🦈
