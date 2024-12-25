@@ -1,37 +1,28 @@
-![GitHub Readme Banner](https://github.com/user-attachments/assets/7b547c60-f1df-4603-b447-882d4e6ffd84)
-
-
-<div align="center">
-🐚 Diving Deep into Development 🌊🦈
-</div>
-    
-## Area of Specialization
-    
-🐋 Full-stack Development <br>
-🏝️ Mobile App Development <br>
-🏖️ Cloud Technology <br>
-🪸 GCP DevOps <br>
+![rakshixh](https://github.com/user-attachments/assets/292cad36-5248-4f28-afdf-28b0617a67b1)
   
-## Languages & Tools
+<h2 align="center">Tools and technologies I leverage to build and innovate💣</h2>
+
 <p align="center">
   <img width="900px" src="https://skillicons.dev/icons?i=c,cpp,py,bash,androidstudio,flutter,github,gitlab,arduino,html,css,js,php,bootstrap,tailwind,react,redux,vite,materialui,vercel,postman,nodejs,express,firebase,mysql,mongodb,linux,nginx,webpack,heroku,gcp,docker,kubernetes,jenkins,ps,pr&theme=dark&perline=12" alt="programming languages" />
 </p>
 
-## My Holopin Profile
+<h2 align="center">My Holopin Profile💥</h2>
+
 <div align="center">
   
 [![An image of @rakshixh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rakshixh)](https://holopin.io/@rakshixh)
 
 </div>
 
- ## Stats
+<h2 align="center">Key metrics that define my work and progress✨</h2>
+ 
 <p align="center">
   <img src="https://github-readme-streak-stats-kv.vercel.app?user=rakshixh&theme=radical&hide_border=true" width="48%" alt="rakshixh's github-readme-streak-stats"/>
 </p>
 
 ##
 <p align="center">
-    <img src="https://github-readme-activity-graph-kv.vercel.app/graph?username=rakshixh&bg_color=141321&title_color=f93d7f&color=f6d647&line=ae81ff&point=f93d7f&area_color=ae81ff&radius=16&hide_border=true&hide_title=false&area=true" width="100%" alt="activity graph">
+    <img src="https://github-readme-activity-graph-kv.vercel.app/graph?username=rakshixh&bg_color=042222&title_color=00df82&color=f6d647&line=00df82&point=fb0&area_color=ae81ff&radius=16&hide_border=true&hide_title=false&area=true" width="100%" alt="activity graph">
 </p>
 
 ##
