@@ -1,9 +1,9 @@
-![rakshixh](https://github.com/user-attachments/assets/292cad36-5248-4f28-afdf-28b0617a67b1)
+![profileGithub](https://github.com/user-attachments/assets/02cc1f79-92ff-4f05-ba75-1817e0b4d462)
   
 <h2 align="center">Tools and technologies I leverage to build and innovate💣</h2>
 
 <p align="center">
-  <img width="900px" src="https://skillicons.dev/icons?i=c,cpp,py,bash,androidstudio,flutter,github,gitlab,arduino,html,css,js,php,bootstrap,tailwind,react,redux,vite,materialui,vercel,postman,nodejs,express,firebase,mysql,mongodb,linux,nginx,webpack,heroku,gcp,docker,kubernetes,jenkins,ps,pr&theme=dark&perline=12" alt="programming languages" />
+  <img width="900px" src="https://skillicons.dev/icons?i=c,cpp,py,github,gitlab,arduino,html,css,js,php,bootstrap,tailwind,react,redux,vite,materialui,postman,nodejs,express,mysql,mongodb,linux,gcp,docker&theme=dark&perline=12" alt="programming languages" />
 </p>
 
 <h2 align="center">My Holopin Profile💥</h2>
