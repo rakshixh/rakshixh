@@ -8,6 +8,7 @@ My tech stack is constantly updating because if it weren’t, I’d be deprecate
 
 When I'm not coding, I switch to **photography and visual art mode**, because pixels deserve love too. And yes, I still spend way too much time arguing with my code editor! 🫢
 
+![ChatGPT Image Jun 28, 2025, 11_07_29 PM](https://github.com/user-attachments/assets/15b598f0-30cc-4575-bd16-367ca01227d1)
 
 ![profileGithub](https://github.com/user-attachments/assets/02cc1f79-92ff-4f05-ba75-1817e0b4d462)
 
