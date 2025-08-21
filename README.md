@@ -2,13 +2,13 @@
 
 ![Static Badge](https://img.shields.io/badge/Explore-MyLinks-default?style=flat-square&link=https%3A%2F%2Fdevlinks.rakshixh.tech%2F) <img src="https://komarev.com/ghpvc/?username=rakshixh&label=Profile%20Views&color=brightgreen&style=flat-square&abbreviated=true" alt="rakshixh" /> ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCoPPOzdy8Z6r68F27zXeJDw?style=flat-square&logo=YouTube&label=Views&color=brightgreen)  <img alt="Static Badge" src="https://img.shields.io/badge/Buy_Me_A-Burger-default?style=flat-square&link=https%3A%2F%2Fbuymeacoffee.com%2Frakshixh">
 
+![rakshixh GitHub ReadMe Banner](https://github.com/user-attachments/assets/bd9a7b2d-69f7-40fb-b498-f77fb35923ff)
+
 Hey there, fellow dev! I’m a **Full-Stack Software Engineer** who thrives in the wild of ever-evolving **JavaScript Ecosystem**. I architect scalable apps, debug like a detective, and refactor code like it's an art form ✨
 
 My tech stack is constantly updating because if it weren’t, I’d be deprecated. I love exploring **new frameworks, optimizing performance, and breaking (then fixing) things in the name of innovation**. Open source? Count me in! I contribute to projects that make developer's lives easier.
 
 When I'm not coding, I switch to **photography and visual art mode**, because pixels deserve love too. And yes, I still spend way too much time arguing with my code editor! 🫢
-
-![rakshixh GitHub ReadMe Banner](https://github.com/user-attachments/assets/bd9a7b2d-69f7-40fb-b498-f77fb35923ff)
 
 [![An image of @rakshixh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rakshixh)](https://holopin.io/@rakshixh)
   
