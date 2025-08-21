@@ -8,7 +8,7 @@ My tech stack is constantly updating because if it weren’t, I’d be deprecate
 
 When I'm not coding, I switch to **photography and visual art mode**, because pixels deserve love too. And yes, I still spend way too much time arguing with my code editor! 🫢
 
-![ProfilePhoto](https://github.com/user-attachments/assets/15b598f0-30cc-4575-bd16-367ca01227d1)
+![rakshixh GitHub ReadMe Banner](https://github.com/user-attachments/assets/bd9a7b2d-69f7-40fb-b498-f77fb35923ff)
 
 [![An image of @rakshixh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rakshixh)](https://holopin.io/@rakshixh)
   
